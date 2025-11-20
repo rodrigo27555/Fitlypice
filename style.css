@@ -196,7 +196,7 @@ nav ul li a:hover {
   color: var(--cor-acao-laranja);
   font-size: var(--tamanho-titulo-principal);
   /* Tipografia Responsiva */
-  font-weight: 700;
+  font-weight: 100;
   line-height: 1.1;
   margin-bottom: 40px;
 }
@@ -705,5 +705,3 @@ footer img {
     height: 300px;
   }
 }
-
-
